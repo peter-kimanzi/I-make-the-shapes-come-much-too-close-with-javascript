@@ -8,6 +8,8 @@ beautiful shape animations using JavaScript
 
 ## Live Link
 
+https://peter-kimanzi.github.io/CodePen-Home-I-make-the-shapes-come-much-too-close-with-javascript/
+
 ## screenshots
 
 ![coco](https://user-images.githubusercontent.com/71552773/191242301-2283a5d3-81c2-4c70-8663-06162845b1f5.PNG)
