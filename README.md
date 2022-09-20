@@ -8,7 +8,7 @@ beautiful shape animations using JavaScript
 
 ## Live Link
 
-https://peter-kimanzi.github.io/CodePen-Home-I-make-the-shapes-come-much-too-close-with-javascript/
+https://peter-kimanzi.github.io/I-make-the-shapes-come-much-too-close-with-javascript/
 
 ## screenshots
 
